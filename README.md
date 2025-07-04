@@ -9,7 +9,7 @@ Welcome to my portfolio website! Here you’ll find:
 
 
 ## Live Demo
-[View Portfolio](https://your-portfolio-link.com)
+[View Portfolio](https://sparkly-gecko-9b2188.netlify.app/)
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/himanshu-khare-33b63a279/)
