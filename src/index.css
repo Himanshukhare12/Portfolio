@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+  scroll-snap-type: y mandatory;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+section {
+  scroll-snap-align: start;
+}
+
+body {
+  @apply bg-white text-black font-sans;
+}
