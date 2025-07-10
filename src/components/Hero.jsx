@@ -22,19 +22,19 @@ export default function Hero() {
           {/* Social Icons */}
           <div className="flex flex-wrap justify-center md:justify-start gap-4 items-center">
             <a href="https://github.com/Himanshukhare12" target="_blank" title="GitHub">
-              <img src="/github.png" alt="GitHub" className="w-6 h-6 hover:scale-110 transition" />
+              <img src="/github.svg" alt="GitHub" className="w-6 h-6 hover:scale-110 transition dark:invert"/>
             </a>
             <a href="https://linkedin.com/in/himanshu-khare-33b63a279" target="_blank" title="LinkedIn">
-              <img src="/Linkedin.png" alt="LinkedIn" className="w-6 h-6 hover:scale-110 transition" />
+              <img src="/linkedin.svg" alt="LinkedIn" className="w-6 h-6 hover:scale-110 transition" />
             </a>
             <a href="https://www.codechef.com/users/himanshukhare" target="_blank" title="CodeChef">
-              <img src="/codechef2.jpg" alt="CodeChef" className="w-6 h-6 rounded hover:scale-110 transition" />
+              <img src="/codechef.jpg" alt="CodeChef" className="w-6 h-6 rounded hover:scale-110 transition" />
             </a>
             <a href="https://leetcode.com/u/Himanshu_khare/" target="_blank" title="LeetCode">
-              <img src="/Leetcode.png" alt="LeetCode" className="w-6 h-6 hover:scale-110 transition" />
+              <img src="/leetcode.svg" alt="LeetCode" className="w-6 h-6 hover:scale-110 transition" />
             </a>
             <a href="https://codeforces.com/profile/Himanshu_khare" target="_blank" title="Codeforces">
-              <img src="/codeforces.png" alt="Codeforces" className="w-6 h-6 hover:scale-110 transition" />
+              <img src="/codeforces.svg" alt="Codeforces" className="w-6 h-6 hover:scale-110 transition" />
             </a>
           </div>
 

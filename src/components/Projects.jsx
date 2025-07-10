@@ -4,7 +4,7 @@ const projects = [
   {
     title: 'BlogVerse',
     description: 'A full-stack blog platform with authentication, rich-text editing, and blog CRUD.',
-    image: '/blog.jpg', 
+    image: '/blog.svg', 
     tags: ['React.js', 'Tailwind CSS', 'Appwrite', 'Redux Toolkit', 'TinyMCE'],
     live: 'https://blog-verse-cyan.vercel.app/',
     github: 'https://github.com/Himanshukhare12/BlogVerse',
@@ -12,7 +12,7 @@ const projects = [
   {
     title: 'Realtime Whiteboard',
     description: 'A collaborative whiteboard app with real-time drawing and user interaction.',
-    image: '/whiteboard.png',
+    image: '/whiteboard.svg',
     tags: ['HTML', 'Socket.io', 'CSS', 'Node.js'],
     live: 'https://realtime-whiteboard-uvcg.onrender.com/',
     github: 'https://github.com/Himanshukhare12/Realtime-Whiteboard',
@@ -20,7 +20,7 @@ const projects = [
   {
     title: 'Excel Clone',
     description: 'A web-based spreadsheet with formula evaluation, cell styling, and export features.',
-    image: '/excel2.png',
+    image: '/excel.svg',
     tags: ['JavaScript', 'HTML', 'CSS', 'DOM Manipulation'],
     live: 'https://himanshukhare12.github.io/Excel-clone/',
     github: 'https://github.com/Himanshukhare12/Excel-clone',
@@ -28,7 +28,7 @@ const projects = [
   {
     title: 'Media Player',
     description: 'A custom media player with playlist, playback controls, and responsive design.',
-    image: '/media.jpg',
+    image: '/mediaplayer.svg',
     tags: ['JavaScript', 'HTML', 'CSS'],
     live: 'https://himanshukhare12.github.io/Media-Player/',
     github: 'https://github.com/Himanshukhare12/Media-Player',
