@@ -4,7 +4,7 @@ const projects = [
   {
     title: 'BlogVerse',
     description: 'A full-stack blog platform with authentication, rich-text editing, and blog CRUD.',
-    image: '/blog.jpg', // Make sure to add this image in your public folder
+    image: '/blog.jpg', 
     tags: ['React.js', 'Tailwind CSS', 'Appwrite', 'Redux Toolkit', 'TinyMCE'],
     live: 'https://blog-verse-cyan.vercel.app/',
     github: 'https://github.com/Himanshukhare12/BlogVerse',
