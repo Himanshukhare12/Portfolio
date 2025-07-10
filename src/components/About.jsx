@@ -10,7 +10,7 @@ export default function About() {
           <h2 className="text-3xl md:text-4xl font-bold text-primary">About Me</h2>
 
           <p className="text-gray-600 dark:text-gray-300 text-base md:text-lg">
-            I’m Himanshu Khare, a passionate Computer Science student at IET DAVV Indore and a full-stack web developer with a focus on building efficient, scalable solutions. I specialize in React.js, Tailwind CSS, and Firebase, and have a strong foundation in Java and C++.
+            I’m Himanshu Khare, a passionate Computer Science student at IET DAVV Indore and a Frontend developer with a focus on building efficient, scalable solutions. I specialize in React.js, Tailwind CSS, and Firebase, and have a strong foundation in Java and C++.
           </p>
 
           <p className="text-gray-600 dark:text-gray-300 text-base md:text-lg">

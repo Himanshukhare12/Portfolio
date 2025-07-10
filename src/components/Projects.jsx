@@ -2,6 +2,14 @@ import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa';
 
 const projects = [
   {
+    title: 'BlogVerse',
+    description: 'A full-stack blog platform with authentication, rich-text editing, and blog CRUD.',
+    image: '/blog.jpg', // Make sure to add this image in your public folder
+    tags: ['React.js', 'Tailwind CSS', 'Appwrite', 'Redux Toolkit', 'TinyMCE'],
+    live: 'https://blog-verse-cyan.vercel.app/',
+    github: 'https://github.com/Himanshukhare12/BlogVerse',
+  },
+  {
     title: 'Realtime Whiteboard',
     description: 'A collaborative whiteboard app with real-time drawing and user interaction.',
     image: '/whiteboard.png',
@@ -24,14 +32,6 @@ const projects = [
     tags: ['JavaScript', 'HTML', 'CSS'],
     live: 'https://himanshukhare12.github.io/Media-Player/',
     github: 'https://github.com/Himanshukhare12/Media-Player',
-  },
-  {
-    title: 'Weather App',
-    description: 'A weather forecast app with location search, current data, and 5-day forecast.',
-    image: '/weather.jpg',
-    tags: ['HTML', 'Weather API', 'CSS', 'JavaScript'],
-    live: 'https://himanshukhare12.github.io/Weather-App/',
-    github: 'https://github.com/Himanshukhare12/Weather-App',
   },
 ];
 
