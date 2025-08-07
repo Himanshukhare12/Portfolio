@@ -6,7 +6,7 @@ const educationData = [
     duration: "2023 – 2027",
     description:
       "Currently pursuing a B.E. in Computer Science with focus on software development, algorithms, and data structures.",
-    highlight: "CGPA: 7.5/10",
+    highlight: "CGPA: 7.8/10",
   },
   {
     title: "ISC (Class XII)",
