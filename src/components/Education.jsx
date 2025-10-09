@@ -22,7 +22,7 @@ const educationData = [
     location: "India",
     duration: "2021 – 2022",
     description: "Completed higher secondary education with focus on Mathematics, Physics, and Computer Science. Developed strong analytical and problem-solving foundation.",
-    highlight: "Percentage: 85%",
+    highlight: "Percentage: 93%",
     status: "completed",
     coursework: [
       "Advanced Mathematics",
@@ -37,7 +37,7 @@ const educationData = [
     location: "India",
     duration: "2019 – 2020",
     description: "Completed secondary education with distinction in Mathematics and Science. Built fundamental knowledge in core subjects.",
-    highlight: "Percentage: 93%",
+    highlight: "Percentage: 85%",
     status: "completed",
     coursework: [
       "Mathematics & Statistics",
