@@ -20,7 +20,7 @@ const projects = [
     featured: true
   },
   {
-    title: 'Excel Clone',
+    title: 'Sheetify',
     description: 'A feature-rich web-based spreadsheet application with advanced formula evaluation, cell styling, and data export capabilities.',
     image: '/excel.svg',
     tags: ['JavaScript', 'HTML', 'CSS', 'DOM Manipulation'],

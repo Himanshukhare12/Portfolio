@@ -108,7 +108,7 @@ export default function Hero() {
           {/* Enhanced Stats Section */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12 animate-fade-in-up-delay-2">
             <div className="bg-white/70 dark:bg-neutral-800/70 backdrop-blur-sm rounded-2xl border border-neutral-200/50 dark:border-neutral-700/50 p-6 hover:scale-105 transition-all duration-300 shadow-elegant">
-              <div className="text-3xl md:text-4xl font-bold text-primary-600 dark:text-primary-400 mb-2">500+</div>
+              <div className="text-3xl md:text-4xl font-bold text-primary-600 dark:text-primary-400 mb-2">700+</div>
               <div className="text-secondary-500 dark:text-secondary-400 font-medium">Problems Solved</div>
               <div className="text-sm text-secondary-400 dark:text-secondary-500 mt-1">Across multiple platforms</div>
             </div>
@@ -118,8 +118,8 @@ export default function Hero() {
               <div className="text-sm text-secondary-400 dark:text-secondary-500 mt-1">Full-stack applications</div>
             </div>
             <div className="bg-white/70 dark:bg-neutral-800/70 backdrop-blur-sm rounded-2xl border border-neutral-200/50 dark:border-neutral-700/50 p-6 hover:scale-105 transition-all duration-300 shadow-elegant">
-              <div className="text-3xl md:text-4xl font-bold text-secondary-600 dark:text-secondary-400 mb-2">2★</div>
-              <div className="text-secondary-500 dark:text-secondary-400 font-medium">CodeChef Rating</div>
+              <div className="text-3xl md:text-4xl font-bold text-secondary-600 dark:text-secondary-400 mb-2">1700+</div>
+              <div className="text-secondary-500 dark:text-secondary-400 font-medium">LeetCode Rating</div>
               <div className="text-sm text-secondary-400 dark:text-secondary-500 mt-1">Competitive programming</div>
             </div>
           </div>
