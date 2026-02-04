@@ -7,7 +7,7 @@ const educationData = [
     location: "Indore, Madhya Pradesh",
     duration: "2023 – 2027",
     description: "Currently pursuing a B.E. in Computer Science with focus on software development, algorithms, and data structures. Active in coding competitions and technical events.",
-    highlight: "CGPA: 8.0/10",
+    highlight: "CGPA: 8.2/10",
     status: "current",
     coursework: [
       "Data Structures & Algorithms",

@@ -12,8 +12,8 @@ const skills = [
   { name: 'Appwrite', icon: '/appwrite.svg', category: 'Backend', needsInvert: false }, // Pink Appwrite logo
   { name: 'GitHub', icon: '/github.svg', category: 'Tools', needsInvert: true }, // Black GitHub logo - needs inversion
   { name: 'Redux Toolkit', icon: '/redux.svg', category: 'Frontend', needsInvert: false }, // Purple Redux logo        
-  { name: 'React Hook Form', icon: '/reacthookform.svg', category: 'Frontend', needsInvert: false }, // Branded colored logo
-  { name: 'React Router', icon: '/reactrout.svg', category: 'Frontend', needsInvert: false }, // Branded colored logo    
+  { name: 'Node.js', icon: '/nodejs.svg', category: 'Backend', needsInvert: false }, // Branded colored logo
+  { name: 'Express.js', icon: '/express.svg', category: 'Backend', needsInvert: false }, // Branded colored logo    
 ];
 
 const categories = {

@@ -78,13 +78,13 @@ export default function Hero() {
               <div className="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-semibold text-secondary-600 dark:text-secondary-300 text-center">
                 {/* Desktop: Horizontal Layout */}
                 <div className="hidden sm:block animate-typing-professional overflow-hidden whitespace-nowrap">
-                  Frontend Developer & Problem Solver
+                  Full-Stack Developer & Problem Solver
                 </div>
                 {/* Mobile Only: Vertical Layout */}
                 <div className="block sm:hidden space-y-1">
                   <div className="overflow-hidden whitespace-nowrap" style={{
                     animation: 'typing-professional 1.5s steps(18, end) both'
-                  }}>Frontend Developer</div>
+                  }}>Full-Stack Developer</div>
                   <div className="overflow-hidden whitespace-nowrap opacity-0" style={{
                     animation: 'fade-in-up 0.3s ease-out 1.7s both, typing-professional 1.2s steps(18, end) 2s both'
                   }}>& Problem Solver</div>
@@ -100,7 +100,9 @@ export default function Hero() {
             </p>
             <p className="text-lg md:text-xl text-secondary-500 dark:text-secondary-400">
               Building scalable solutions with <span className="font-semibold text-accent-600 dark:text-accent-400">React.js</span>, 
-              <span className="font-semibold text-accent-600 dark:text-accent-400"> Java</span>, and 
+              <span className="font-semibold text-accent-600 dark:text-accent-400"> Java</span>,
+              <span className="font-semibold text-accent-600 dark:text-accent-400"> Node.js</span>,
+              <span className="font-semibold text-accent-600 dark:text-accent-400"> Express.js</span>, and 
               <span className="font-semibold text-accent-600 dark:text-accent-400"> modern frameworks</span>.
             </p>
           </div>
@@ -108,14 +110,14 @@ export default function Hero() {
           {/* Enhanced Stats Section */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12 animate-fade-in-up-delay-2">
             <div className="bg-white/70 dark:bg-neutral-800/70 backdrop-blur-sm rounded-2xl border border-neutral-200/50 dark:border-neutral-700/50 p-6 hover:scale-105 transition-all duration-300 shadow-elegant">
-              <div className="text-3xl md:text-4xl font-bold text-primary-600 dark:text-primary-400 mb-2">700+</div>
+              <div className="text-3xl md:text-4xl font-bold text-primary-600 dark:text-primary-400 mb-2">1000+</div>
               <div className="text-secondary-500 dark:text-secondary-400 font-medium">Problems Solved</div>
               <div className="text-sm text-secondary-400 dark:text-secondary-500 mt-1">Across multiple platforms</div>
             </div>
             <div className="bg-white/70 dark:bg-neutral-800/70 backdrop-blur-sm rounded-2xl border border-neutral-200/50 dark:border-neutral-700/50 p-6 hover:scale-105 transition-all duration-300 shadow-elegant">
-              <div className="text-3xl md:text-4xl font-bold text-accent-600 dark:text-accent-400 mb-2">4+</div>
+              <div className="text-3xl md:text-4xl font-bold text-accent-600 dark:text-accent-400 mb-2">10+</div>
               <div className="text-secondary-500 dark:text-secondary-400 font-medium">Projects Built</div>
-              <div className="text-sm text-secondary-400 dark:text-secondary-500 mt-1">Full-stack applications</div>
+              <div className="text-sm text-secondary-400 dark:text-secondary-500 mt-1">Web applications</div>
             </div>
             <div className="bg-white/70 dark:bg-neutral-800/70 backdrop-blur-sm rounded-2xl border border-neutral-200/50 dark:border-neutral-700/50 p-6 hover:scale-105 transition-all duration-300 shadow-elegant">
               <div className="text-3xl md:text-4xl font-bold text-secondary-600 dark:text-secondary-400 mb-2">1700+</div>
@@ -128,7 +130,7 @@ export default function Hero() {
           <div className="flex flex-wrap justify-center gap-4 items-center animate-fade-in-up-delay-3 mt-10">
             {[
               { href: "https://github.com/Himanshukhare12", src: "/github.svg", alt: "GitHub", title: "GitHub", color: "hover:bg-neutral-100 dark:hover:bg-neutral-800", needsInvert: true },
-              { href: "https://linkedin.com/in/himanshu-khare-33b63a279", src: "/linkedin.svg", alt: "LinkedIn", title: "LinkedIn", color: "hover:bg-blue-50 dark:hover:bg-blue-900/20", needsInvert: false },
+              { href: "https://linkedin.com/in/himanshu-khare", src: "/linkedin.svg", alt: "LinkedIn", title: "LinkedIn", color: "hover:bg-blue-50 dark:hover:bg-blue-900/20", needsInvert: false },
               { href: "https://www.codechef.com/users/himanshukhare", src: "/codechef.jpg", alt: "CodeChef", title: "CodeChef", rounded: true, color: "hover:bg-orange-50 dark:hover:bg-orange-900/20", needsInvert: false },
               { href: "https://leetcode.com/u/Himanshu_khare/", src: "/leetcode.svg", alt: "LeetCode", title: "LeetCode", color: "hover:bg-yellow-50 dark:hover:bg-yellow-900/20", needsInvert: false },
               { href: "https://codeforces.com/profile/Himanshu_khare", src: "/codeforces.svg", alt: "Codeforces", title: "Codeforces", color: "hover:bg-red-50 dark:hover:bg-red-900/20", needsInvert: false }

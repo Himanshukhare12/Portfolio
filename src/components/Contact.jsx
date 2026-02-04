@@ -5,8 +5,8 @@ export default function Contact() {
     {
       icon: FaLinkedin,
       label: "LinkedIn",
-      value: "himanshu-khare-33b63a279",
-      href: "https://linkedin.com/in/himanshu-khare-33b63a279",
+      value: "himanshu-khare",
+      href: "https://linkedin.com/in/himanshu-khare",
       color: "text-blue-600 hover:text-blue-500 dark:text-blue-400 dark:hover:text-blue-300"
     },
     {

@@ -18,11 +18,11 @@ export default function About() {
 
           <div className="space-y-6">
             <p className="section-subtitle leading-relaxed">
-              I'm Himanshu Khare, a passionate Computer Science student at <span className="font-semibold text-primary-600 dark:text-primary-400">IET DAVV Indore</span> and a Frontend developer dedicated to building efficient, scalable solutions.
+              I'm Himanshu Khare, a passionate Computer Science student at <span className="font-semibold text-primary-600 dark:text-primary-400">IET DAVV Indore</span> and a Full-Stack developer dedicated to building efficient, scalable solutions.
             </p>
 
             <p className="text-base md:text-lg text-secondary-600 dark:text-secondary-300 leading-relaxed">
-              I specialize in <span className="font-semibold text-accent-600 dark:text-accent-400">React.js</span>, <span className="font-semibold text-accent-600 dark:text-accent-400">Tailwind CSS</span>, and <span className="font-semibold text-accent-600 dark:text-accent-400">Firebase</span>, with a strong foundation in Java and C++. My competitive programming journey includes solving 300+ DSA problems and achieving a 2-star rating on CodeChef.
+              I specialize in <span className="font-semibold text-accent-600 dark:text-accent-400">React.js</span>, <span className="font-semibold text-accent-600 dark:text-accent-400">Node.js</span>, and <span className="font-semibold text-accent-600 dark:text-accent-400">Express.js</span>, with a strong foundation in Java and C++. My competitive programming journey includes solving 1000+ DSA problems and achieving a 1700+ rating on LeetCode.
             </p>
           </div>
 
@@ -42,7 +42,7 @@ export default function About() {
               </li>
               <li className="flex items-center gap-3">
                 <span className="w-6 h-6 bg-secondary-100 dark:bg-secondary-900/30 text-secondary-600 dark:text-secondary-400 rounded-full flex items-center justify-center text-sm font-bold">📈</span>
-                <span>300+ Problems Solved on Competitive Platforms</span>
+                <span>1000+ Problems Solved on Competitive Platforms</span>
               </li>
             </ul>
           </div>
@@ -66,16 +66,16 @@ export default function About() {
             maxHeight="300px"
             code={`public class AboutMe {
     private String name = "Himanshu Khare";
-    private String role = "Frontend Developer & Problem Solver";
+    private String role = "Full-Stack Developer & Problem Solver";
     private String education = "B.E. Computer Science - IET DAVV Indore";
     private String[] technologies = {
         "Java", "C++", "JavaScript", "React.js",
-        "Tailwind CSS", "Firebase", "Node.js", "MongoDB"
+        "Tailwind CSS", "Firebase", "Node.js", "MongoDB", "Express.js"
     };
     private String[] achievements = {
         "2nd place in Code Quest by GDG",
-        "2-Star rating on CodeChef",
-        "300+ Problems Solved",
+        "1700+ rating on LeetCode",
+        "1000+ Problems Solved",
         "Multiple full-stack projects"
     };
     private boolean problemSolver = true;
