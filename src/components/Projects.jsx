@@ -2,13 +2,22 @@ import { FaGithub, FaExternalLinkAlt, FaCode, FaStar } from 'react-icons/fa';
 
 const projects = [
   {
+    title: 'LedgerFlow',
+    description: 'A secure RESTful API for financial ledger management with JWT authentication, bcrypt password hashing, MongoDB integration, and email notifications.',
+    image: '/ledger.png',
+    tags: ['Node.js', 'Express.js', 'MongoDB', 'Mongoose', 'JWT', 'bcrypt', 'Nodemailer'],
+    live: 'https://ledgerflow-ifkh.onrender.com',
+    github: 'https://github.com/Himanshukhare12/LedgerFlow',
+    featured: true
+  },
+  {
     title: 'BlogVerse',
     description: 'A comprehensive full-stack blogging platform featuring user authentication, rich-text editing, and complete CRUD operations for seamless content management.',
     image: '/blog.svg', 
     tags: ['React.js', 'Tailwind CSS', 'Appwrite', 'Redux Toolkit', 'TinyMCE'],
     live: 'https://blog-verse-cyan.vercel.app/',
     github: 'https://github.com/Himanshukhare12/BlogVerse',
-    featured: true
+    featured: false
   },
   {
     title: 'Realtime Whiteboard',

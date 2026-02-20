@@ -74,7 +74,7 @@ export default function About() {
     };
     private String[] achievements = {
         "2nd place in Code Quest by GDG",
-        "1700+ rating on LeetCode",
+        "1800+ rating on LeetCode",
         "1000+ Problems Solved",
         "Multiple full-stack projects"
     };
